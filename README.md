@@ -33,16 +33,16 @@ The aboved picture shows a p-value of 0.04168, which is higer than the common si
 ### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 There are many factors that consumers take into consideration when evaluating a car to purchase. We will test whether MechaCar is statistically significantly different from competing models on these metrics. The null hypothesis is that these observables are not significantly different from competitors, and the alternative hypothesis is that MechaCar does differ significantly from competitors in these variables.
 ### What metric or metrics are you going to test?
-The price of car
-Engine Type
-Drive Package 
+The price of car,
+Engine Type,
+Drive Package.
 ### What is the null hypothesis or alternative hypothesis?
 Null hypothesis
 ### What statistical test would you use to test the hypothesis? And why?
 A multiple linear regression would be used to determine the factors that have the highest correlation for selling price. We can find out what are factors will inflence the price.
 
 ### What data is needed to run the statistical test?
-Location
-The price of car
-Engine Type
-Drive Package 
+Location,
+The price of car,
+Engine Type,
+Drive Package.
